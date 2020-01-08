@@ -1,0 +1,17 @@
+From: ${fromEmail}
+To: ${toEmail}
+Subject: ${subject}
+
+
+An exception has been generated at YakJive.com in the ${domain} site.
+
+
+
+${error}
+
+
+
+
+
+--------------------------------------------------------------
+Copyright (c) 2006 News Community, LLC.

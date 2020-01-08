@@ -1,0 +1,15 @@
+CREATE TABLE attachment_${ID} (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    filename VARCHAR(255) NOT NULL,
+    original_filename VARCHAR(255) NOT NULL,
+    notes VARCHAR(255),
+    align VARCHAR(255),
+    image BOOLEAN NOT NULL DEFAULT 0,
+    image_height SMALLINT UNSIGNED ZEROFILL,
+    image_width SMALLINT UNSIGNED ZEROFILL,
+    thumbnail_name VARCHAR(255),
+    thumbnail_height SMALLINT UNSIGNED ZEROFILL,
+    thumbnail_width SMALLINT UNSIGNED ZEROFILL,
+    size INT ZEROFILL,
+    created_date DATETIME NOT NULL,
+    PRIMARY KEY(id)) ENGINE = INNODB;

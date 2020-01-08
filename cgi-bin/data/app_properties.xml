@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<properties>
+	<templateDir><![CDATA[data/page_includes/]]></templateDir>
+	<attachURL><![CDATA[http://www.yakjive.com/uploads/]]></attachURL>
+	<dataDirectory><![CDATA[data/newsItems/]]></dataDirectory>
+	<siteType><![CDATA[Basic]]></siteType>
+	<headerFile><![CDATA[data/page_includes/header.html]]></headerFile>
+	<cookieName><![CDATA[www.yakjive.com]]></cookieName>
+	<moreText><![CDATA[&nbsp;]]></moreText>
+	<contactEmail><![CDATA[chris@yakjive.com]]></contactEmail>
+	<styleURL><![CDATA[http://www.yakjive.com/styles/]]></styleURL>
+	<exceptionHeader><![CDATA[header.html]]></exceptionHeader>
+	<rssFullURL><![CDATA[http://www.yakjive.com/rss/]]></rssFullURL>
+	<newsletter><![CDATA[True]]></newsletter>
+	<metaDescription><![CDATA[YakJive.com offers a site for free internet newspaper and blog creation.]]></metaDescription>
+	<cgiemailURL><![CDATA[http://www.yakjive.com/cgi-bin/cgiemail/supportfiles/contact_template.txt]]></cgiemailURL>
+	<category><![CDATA[newspaper blog publishing groupware]]></category>
+	<adBannerPosition><![CDATA[right]]></adBannerPosition>
+	<newsFileLocation><![CDATA[../]]></newsFileLocation>
+	<adminURL><![CDATA[http://www.yakjive.net/cgi-bin/]]></adminURL>
+	<homePage><![CDATA[../index.html]]></homePage>
+	<indexFooterFile><![CDATA[data/page_includes/index_footer.html]]></indexFooterFile>
+	<alphaMode><![CDATA[True]]></alphaMode>
+	<attachDirectory><![CDATA[../uploads/]]></attachDirectory>
+	<includesDirectory><![CDATA[../includes/]]></includesDirectory>
+	<menuSeparator><![CDATA[|]]></menuSeparator>
+	<userDirectory><![CDATA[../uploads/users/]]></userDirectory>
+	<premium><![CDATA[True]]></premium>
+	<articleDate><![CDATA[False]]></articleDate>
+	<rssDirectory><![CDATA[../rss/]]></rssDirectory>
+	<indexHeaderFile><![CDATA[data/page_includes/index_header.html]]></indexHeaderFile>
+	<indexTemplate><![CDATA[../styles/index_template.html]]></indexTemplate>
+	<footerFile><![CDATA[data/page_includes/footer.html]]></footerFile>
+	<active><![CDATA[True]]></active>
+	<advancedLinks><![CDATA[False]]></advancedLinks>
+	<ID><![CDATA[0]]></ID>
+	<styleDir><![CDATA[../styles/]]></styleDir>
+	<customStyle><![CDATA[False]]></customStyle>
+	<siteTitle><![CDATA[Electronic Groupware Newspaper and Blogs]]></siteTitle>
+	<siteSubTitle><![CDATA[Check out YakJive.com to create your own online newspaper and group-based blogs]]></siteSubTitle>
+	<styleName><![CDATA[basic-red-v.css]]></styleName>
+	<rootURL><![CDATA[http://www.yakjive.com/]]></rootURL>
+	<imageSize><![CDATA[100]]></imageSize>
+	<domainName><![CDATA[]]></domainName>
+	<storageLocked><![CDATA[False]]></storageLocked>
+	<userURL><![CDATA[http://www.yakjive.com/uploads/users/]]></userURL>
+	<adminCssFile><![CDATA[admin.css]]></adminCssFile>
+	<siteID><![CDATA[yakjive]]></siteID>
+	<startPage><![CDATA[dispatch_wizard.py?operation=show_default_page]]></startPage>
+	<redirectOnFailedLogin><![CDATA[login.py]]></redirectOnFailedLogin>
+	<metaKeywords><![CDATA[newspaper blog publishing groupware]]></metaKeywords>
+	<exceptionFooter><![CDATA[footer.html]]></exceptionFooter>
+	<subTitleDate><![CDATA[True]]></subTitleDate>
+</properties>

@@ -1,0 +1,14 @@
+To: ${contactEmail}
+Subject: Web submission -- [subject]
+From: [email]
+
+[check]
+
+Name: [sendername]
+
+Email: [email]
+
+Would you like us to contact you?   [contact]
+
+Comment:  [comment]
+

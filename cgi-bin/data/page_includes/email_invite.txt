@@ -1,0 +1,79 @@
+From: ${fromEmail}
+To: ${toEmail}
+Subject: ${subject}
+
+
+Dear ${toName},
+
+${longFromName} has added you as a contributor to a collaborative 
+web site at YakJive.com.  YakJive offers a do-it-yourself online 
+newspaper creation service and ${shortFromName} has decided to invite
+you participate in ${fromSexPossesive} custom site.
+
+To view ${shortFromName}'s site go to the following URL:
+
+   ${rootURL}
+
+To log into your account please use the following URL and login info:
+
+   ${adminURL}login.py
+   Username: ${username}
+   Password: ${password}
+   
+${shortFromName} also gave you a penname to reference you on your articles.  
+You may change your penname when you log in for the first time.  Your
+penname is:  ${penname}
+   
+After logging in and accepting the Terms and Conditions of Service for
+YakJive, contact ${shortFromName} and find out exactly what kind of
+articles that ${fromSex} hopes you will write.  We've already started a 
+personal blog for you called "${penname}'s Blog."  You may customize
+the name of your blog and add articles to the site after you have
+logged into your site.
+
+From there, your imagination is your only limit.
+
+Some of the features that you will find on YakJive are:
+
+   * Wizards that guide you through the site's user-friendly tools
+   * Add your own articles to a variety of subject-specific Newspages
+   * Create new Newspages with your own subjects
+   * Create whole Sections of the site to organize related Newspages
+   * Add a photo to each article
+   * Add address information to articles
+   * Customize the site's styles and design
+   * Manage the layout of headlines and Newspages within Sections
+   * Create a personal bio
+   * Hide articles that are in-progress from being 'published'
+   
+   * ... and much more!
+   
+(Some of the features that are available to you may depend upon the
+permissions granted to you by ${shortFromName}.)
+
+Just because you're a member of ${shortFromName}'s YakJive
+group, doesn't mean that you can't have your own YakJive site
+as well.  If you'd like to start your own online 
+newspaper about knitting, puppies,
+your family, peach trees, brewing root beer, or anything else, just go to 
+http://www.YakJive.com and enter the signup code: ${code}
+
+If you don't know ${longFromName} or believe that you have received
+this email in error, please contact ${fromEmail} directly.  You may
+also send an email to ${problemEmail}.
+
+We hope that you enjoy your experience at YakJive and that you 
+have lots to contribute.
+
+Thanks for checking out YakJive.
+
+YakJive support staff
+
+
+--------------------------------------------------------------
+This email was sent to you by your friend or associate through
+www.yakjive.com.  Your email address has been kept confidential
+and will not be used by in any way except through the workflow 
+of your friend's YakJive site.
+
+Copyright (c) 2006 News Community, LLC.

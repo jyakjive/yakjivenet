@@ -1,0 +1,71 @@
+From: ${fromEmail}
+To: ${toEmail}
+Subject: ${subject}
+
+
+Dear ${toName},
+
+Welcome to YakJive, the place where you can build an online journal and website... for free!
+
+Your new YakJive account has been created.  To begin using YakJive, you will need to activate your account using the following link:
+
+   ${activationURL}
+
+To manage your site, please use the following URL and login info:
+
+   ${rootURL}${domain}/admin
+   Username: ${username}
+   Password: ${password}
+   
+(Please note: Users with Text-only browsers will find the admin URL at:  ${rootURL}cgi-bin/yj/${domain}/login.py )
+   
+YakJive will guide you through a brief setup wizard when you first log in.  This setup wizard will help yo to think about and create the organization for your site.  Don't worry, though, after you get going, YakJive provides lots of tools to help you change, reconfigure, and manage the site setup and its content.
+
+To view your public website after you complete the setup wizard, go to the following URL:
+
+   ${rootURL}${domain}
+
+From your website, as long as you have logged in recently on your machine, you can add articles, change styles, and access your site's properties.
+
+Some of the features that you will find on YakJive are:
+
+   * Wizards that guide you through the site's user-friendly tools
+   * 50 Mb of free space! That's up to 5000 articles or approximately 90 0.5 Mb photos
+   * Password protect site Sections so that only you and allowed users may view them
+   * Create new Newspages (subject-specific blogs) and add Articles
+   * Create whole Sections of the site to organize related Newspages
+   * Add additional users who can contribute articles to your website
+   * Add a photo to each article
+   * Add address information to articles and have the articles automatically display on a map
+   * Customize the site's styles and design
+   * Manage the layout of headlines and Newspages within Sections
+   * Create a personal bio
+   * Hide articles that are in-progress from being 'published'
+   * Maps and personalizeable icons
+   * Password-protected site sections
+   
+   * ... and much more!
+   
+We would love it if you told others about YakJive.  If you do, please let them know that they can sign up for a site of their own at http://www.yakjive.com.
+
+If you did not sign up for a YakJive account through http://www.yakjive.com please forward this email to ${problemEmail} .
+
+By signing up for the service and using your new site, you have agreed to the Terms and Conditions of Service for YakJive, which may be viewed at the following location:
+
+   http://www.yakjive.com/messages/terms-and-conditions.html
+
+We hope that you enjoy your experience at YakJive.  We look forward to reading them!
+
+Thanks for checking out YakJive!
+
+YakJive support staff
+
+
+--------------------------------------------------------------
+This email was sent to you because you signed up at
+www.yakjive.com.  Your email address has been kept confidential
+and will not be used by in any way except through the workflow 
+of your YakJive site or to contact you for adminstrative
+reasons regarding the YakJive service.
+
+Copyright (c) 2007 News Community, LLC.
